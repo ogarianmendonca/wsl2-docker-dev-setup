@@ -149,7 +149,7 @@ ip addr show docker0
 
 ---
 
-### 10. Instalação de PHP, extensões e Node.js
+### 10. Instalação de PHP e extensões 
 
 1. Adicione o repositório do PHP:
 
